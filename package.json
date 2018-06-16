@@ -1,0 +1,23 @@
+{
+  "name": "sails-blog-api",
+  "version": "0.1.0",
+  "description": "Sails api for a blog-like application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rraspo/sails-blog-api.git"
+  },
+  "author": "Juan A. Porras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rraspo/sails-blog-api/issues"
+  },
+  "homepage": "https://github.com/rraspo/sails-blog-api#readme",
+  "dependencies": {
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.10"
+  }
+}
